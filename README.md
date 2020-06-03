@@ -1,6 +1,6 @@
 # Dr_Quine
 
-This is a project in which I made a Quine and 2 Quine-variants.
+This is a project in which I made a Quine and 2 Quine variants.
 
 The first one is called Colleen and is a classic Quine that outputs the same text than its own content.
 
